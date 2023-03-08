@@ -1,0 +1,16 @@
+C:\Users\darkd\source\repos\p2_o4_b\p2_o4_b\bin\Debug\p2_o4_b.exe.config
+C:\Users\darkd\source\repos\p2_o4_b\p2_o4_b\bin\Debug\p2_o4_b.exe
+C:\Users\darkd\source\repos\p2_o4_b\p2_o4_b\bin\Debug\p2_o4_b.pdb
+C:\Users\darkd\source\repos\p2_o4_b\p2_o4_b\obj\Debug\p2_o4_b.csproj.AssemblyReference.cache
+C:\Users\darkd\source\repos\p2_o4_b\p2_o4_b\obj\Debug\p2_o4_b.csproj.SuggestedBindingRedirects.cache
+C:\Users\darkd\source\repos\p2_o4_b\p2_o4_b\obj\Debug\p2_o4_b.csproj.CoreCompileInputs.cache
+C:\Users\darkd\source\repos\p2_o4_b\p2_o4_b\obj\Debug\p2_o4_b.exe
+C:\Users\darkd\source\repos\p2_o4_b\p2_o4_b\obj\Debug\p2_o4_b.pdb
+C:\Users\darkd\OneDrive\Masaüstü\Uğur-Alp-Balta-05200000096-p2\Kodlar\4\p2_o4_b\p2_o4_b\bin\Debug\p2_o4_b.exe.config
+C:\Users\darkd\OneDrive\Masaüstü\Uğur-Alp-Balta-05200000096-p2\Kodlar\4\p2_o4_b\p2_o4_b\bin\Debug\p2_o4_b.exe
+C:\Users\darkd\OneDrive\Masaüstü\Uğur-Alp-Balta-05200000096-p2\Kodlar\4\p2_o4_b\p2_o4_b\bin\Debug\p2_o4_b.pdb
+C:\Users\darkd\OneDrive\Masaüstü\Uğur-Alp-Balta-05200000096-p2\Kodlar\4\p2_o4_b\p2_o4_b\obj\Debug\p2_o4_b.csproj.AssemblyReference.cache
+C:\Users\darkd\OneDrive\Masaüstü\Uğur-Alp-Balta-05200000096-p2\Kodlar\4\p2_o4_b\p2_o4_b\obj\Debug\p2_o4_b.csproj.SuggestedBindingRedirects.cache
+C:\Users\darkd\OneDrive\Masaüstü\Uğur-Alp-Balta-05200000096-p2\Kodlar\4\p2_o4_b\p2_o4_b\obj\Debug\p2_o4_b.csproj.CoreCompileInputs.cache
+C:\Users\darkd\OneDrive\Masaüstü\Uğur-Alp-Balta-05200000096-p2\Kodlar\4\p2_o4_b\p2_o4_b\obj\Debug\p2_o4_b.exe
+C:\Users\darkd\OneDrive\Masaüstü\Uğur-Alp-Balta-05200000096-p2\Kodlar\4\p2_o4_b\p2_o4_b\obj\Debug\p2_o4_b.pdb

@@ -1,0 +1,8 @@
+C:\Users\darkd\source\repos\p2-o1\p2-o1\bin\Debug\p2-o1.exe.config
+C:\Users\darkd\source\repos\p2-o1\p2-o1\bin\Debug\p2-o1.exe
+C:\Users\darkd\source\repos\p2-o1\p2-o1\bin\Debug\p2-o1.pdb
+C:\Users\darkd\source\repos\p2-o1\p2-o1\obj\Debug\p2-o1.csproj.AssemblyReference.cache
+C:\Users\darkd\source\repos\p2-o1\p2-o1\obj\Debug\p2-o1.csproj.SuggestedBindingRedirects.cache
+C:\Users\darkd\source\repos\p2-o1\p2-o1\obj\Debug\p2-o1.csproj.CoreCompileInputs.cache
+C:\Users\darkd\source\repos\p2-o1\p2-o1\obj\Debug\p2-o1.exe
+C:\Users\darkd\source\repos\p2-o1\p2-o1\obj\Debug\p2-o1.pdb

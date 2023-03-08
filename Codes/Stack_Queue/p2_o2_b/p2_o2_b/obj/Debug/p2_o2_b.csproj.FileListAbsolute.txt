@@ -1,0 +1,8 @@
+C:\Users\darkd\source\repos\p2_o2_b\p2_o2_b\bin\Debug\p2_o2_b.exe.config
+C:\Users\darkd\source\repos\p2_o2_b\p2_o2_b\bin\Debug\p2_o2_b.exe
+C:\Users\darkd\source\repos\p2_o2_b\p2_o2_b\bin\Debug\p2_o2_b.pdb
+C:\Users\darkd\source\repos\p2_o2_b\p2_o2_b\obj\Debug\p2_o2_b.csproj.AssemblyReference.cache
+C:\Users\darkd\source\repos\p2_o2_b\p2_o2_b\obj\Debug\p2_o2_b.csproj.SuggestedBindingRedirects.cache
+C:\Users\darkd\source\repos\p2_o2_b\p2_o2_b\obj\Debug\p2_o2_b.csproj.CoreCompileInputs.cache
+C:\Users\darkd\source\repos\p2_o2_b\p2_o2_b\obj\Debug\p2_o2_b.exe
+C:\Users\darkd\source\repos\p2_o2_b\p2_o2_b\obj\Debug\p2_o2_b.pdb
